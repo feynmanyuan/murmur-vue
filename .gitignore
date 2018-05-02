@@ -134,3 +134,4 @@ yarn-error.log*
 *.ntvs*
 *.njsproj
 *.sln
+package-lock.json
